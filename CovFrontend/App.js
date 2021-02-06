@@ -10,6 +10,11 @@ export default function App() {
               height: 50,
               width : 50
           }} />
+          <Image source={{
+              uri: "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png",
+              height: 50,
+              width : 50
+          }} />
       <StatusBar style="auto" />
     </View>
   );
