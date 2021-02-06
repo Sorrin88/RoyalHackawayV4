@@ -1,0 +1,3 @@
+D:\Projects\RoyalHackawayV4\Covolunteer\Covolunteer\obj\Debug\Covolunteer.njsprojAssemblyReference.cache
+D:\Projects\RoyalHackawayV4\Covolunteer\Covolunteer\obj\Debug\Covolunteer.njsproj.CoreCompileInputs.cache
+D:\Projects\RoyalHackawayV4\Covolunteer\Covolunteer\bin\Microsoft.NodejsTools.WebRole.dll
